@@ -25,9 +25,12 @@ features:
   - title: 打包
     details: 默认的Bundler是Vite，而WebPack也得到了支持。选择您喜欢的那个！
 
-footer: <a href="https://github.com/guobao2333/docs-source">果宝的文档</a> © 2025 by <a href="https://github.com/guobao2333">shiguobaona</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><!-- <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> -->
+<!-- footer: --> 
 ---
 
 检查[文档][default-theme-home]以获取更多详细信息。
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+
+---
+<a href="https://github.com/guobao2333/docs-source">果宝的文档</a> © 2025 by <a href="https://github.com/guobao2333">shiguobaona</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
