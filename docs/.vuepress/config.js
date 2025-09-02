@@ -1,16 +1,24 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
   base: '/docs-source/',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: '果宝的文档',
+  description: '这里全都是宝贝，别愣着了快捡啊！',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    // logo: 'https://vuejs.press/images/hero.png',
+    locales: {
+      '/': {
+        selectLanguageName: '简体中文',
+      },
+      /*'/en/': {
+        selectLanguageName: 'English',
+      },*/
+    },
 
     navbar: ['/', '/get-started'],
   }),
