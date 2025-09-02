@@ -1,10 +1,7 @@
-name: Upload Lockfile after npm install
+name: Update CI-specific configs
 
 on:
   workflow_dispatch:
-  push:
-    branches: main
-  pull_request:
 
 jobs:
   build-and-upload:
@@ -25,10 +22,12 @@ jobs:
     - name: List files (debug)
       run: ls -la
 
-    - name: Upload package-lock.json as artifact
+    # 我当然知道可以直接push，但害怕bug还是手动检查吧😥
+    - name: Upload config as artifact
       uses: actions/upload-artifact@v4
       with:
         name: npm-lockfile
-        path: package-lock.json
+        path: |
+            package.json
+            package-lock.json
         include-hidden-files: true 
-        # retention-days: 7 # 可选：设置工件的保留天数
