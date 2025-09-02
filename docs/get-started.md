@@ -6,7 +6,7 @@
 
 您可以在Vuepress目录中添加Markdown文件，每个标记文件都将转换为网站中的页面。
 
-有关更多详细信息，请参见[路由][]。
+有关更多详细信息，请参见[路由][routing]。
 
 ## 内容
 
@@ -20,14 +20,14 @@ VuePress使用`.vuepress/config.js`（或.ts）文件作为[site Configuration][
 
 对于[客户端配置][client-config]，您可以创建`.vuepress/client.js`（或.ts）。
 
-同时，您还可以使用[FrontMatter][]添加每个页面的配置。
+同时，您还可以使用[FrontMatter][frontmatter]添加每个页面的配置。
 
 ## 布局和自定义
 
 这是控制`@vuepress/theme-default`：
 
- - [底栏][]
- - [侧边栏][]
+ - [底栏][navbar]
+ - [侧边栏][sidebar]
 
 检查[默认主题文档][default-theme]以获取完整参考。
 

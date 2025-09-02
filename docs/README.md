@@ -1,7 +1,7 @@
 ---
 home: true
 title: 主页
-<!-- heroImage: https://vuejs.press/images/hero.png -->
+<!-- heroImage: https://vuejs.press/images/hero.png
 actions:
   - text: 开始
     link: /get-started.html
@@ -25,7 +25,7 @@ features:
   - title: 打包
     details: 默认的Bundler是Vite，而WebPack也得到了支持。选择您喜欢的那个！
 
-<!-- footer: --> 
+footer: --> 
 ---
 
 检查[vuepress文档][default-theme-home]以获取更多详细信息。
@@ -33,6 +33,6 @@ features:
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
 
 ---
-© 2025 [果宝](https://github.com/guobao2333)
-本站所有文章使用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议授权许可 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+© 2025 [果宝](https://github.com/guobao2333)  
+所有文章使用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议授权许可 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">  
 由 [VuePress](https://github.com/vuepress/core) 强力驱动

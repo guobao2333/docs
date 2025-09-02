@@ -6,8 +6,8 @@ export default defineUserConfig({
   lang: 'zh-CN',
   base: '/docs-source/',
 
-  title: '果宝的文档',
-  description: '这里全都是宝贝，别愣着了快捡啊！',
+  title: '果宝个人文档',
+  description: '正在建设中，暂时保留默认内容',
 
   theme: defaultTheme({
     // logo: 'https://vuejs.press/images/hero.png',
