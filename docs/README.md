@@ -12,7 +12,7 @@ actions:
     type: secondary
 
 features:
-  - title: 首先简单
+  - title: 简单
     details: 以促销为中心的项目结构的最小设置可帮助您专注于写作。
   - title: vue驱动
     details: 享受VUE的开发经验，在Markdown中使用VUE组件，并使用VUE开发自定义主题。
@@ -28,9 +28,11 @@ features:
 <!-- footer: --> 
 ---
 
-检查[文档][default-theme-home]以获取更多详细信息。
+检查[vuepress文档][default-theme-home]以获取更多详细信息。
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
 
 ---
-<a href="https://github.com/guobao2333/docs-source">果宝的文档</a> © 2025 by <a href="https://github.com/guobao2333">shiguobaona</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+© 2025 [果宝](https://github.com/guobao2333)
+本站所有文章使用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议授权许可 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+由 [VuePress](https://github.com/vuepress/core) 强力驱动
