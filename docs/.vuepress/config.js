@@ -11,6 +11,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // logo: 'https://vuejs.press/images/hero.png',
+    repo: 'guobao2333/docs-source',
     locales: {
       '/': {
         selectLanguageName: '简体中文',
@@ -20,7 +21,7 @@ export default defineUserConfig({
       },*/
     },
 
-    navbar: ['/', '/get-started'],
+    navbar: ['/', '/get-started', '/termux-android-sdk'],
   }),
 
   bundler: viteBundler(),
