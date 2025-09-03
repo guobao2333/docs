@@ -13,6 +13,7 @@ export default defineUserConfig({
     // logo: 'https://vuejs.press/images/hero.png',
     repo: 'guobao2333/docs',
     contributors: false,
+    docsBranch: 'gh-pages',
     /*locales: {
       '/': {
         selectLanguageName: '简体中文',
