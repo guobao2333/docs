@@ -3,9 +3,5 @@ home: true
 title: 主页
 
 footerHtml: true
-footer: © 2025 [果宝](https://github.com/guobao2333)<br/>所有文章使用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议授权许可<br>由 [VuePress](https://github.com/vuepress/core) 强力驱动
+footer: 所有文章使用 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> 协议授权许可<br>© 2025 <a href="https://github.com/guobao2333">果宝</a><br/>网站由 <a href="https://github.com/vuepress/core">VuePress</a> 强力驱动
 ---
-
-检查[vuepress文档][default-theme-home]以获取更多详细信息。
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
